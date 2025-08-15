@@ -7,7 +7,7 @@
 1. Откройте терминал
 2. Выполните одну команду:
 ```bash
-curl -sSL https://raw.githubusercontent.com/your_username/moodle-docker-one-click/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/RoXyGeNOFF/moodle-docker-ALLinOne/install.sh | bash
 ```
 
 ## После установки
